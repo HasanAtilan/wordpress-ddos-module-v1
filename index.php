@@ -1,15 +1,15 @@
 <?php
 /**
-* @package Hasan_Atilan
+* @paket Hasan_Atilan
 * @version 1.0
 */
 /*
-Plugin Name: HasanAtilan Wordpress DDoS Modülü
-Plugin URI: http://hasanatilan.com/
-Description: Bu eklenti taşşaklığına yapılmıştır.
-Author: Hasan ATILAN
+Plugin Adı: HasanAtilan Wordpress DDoS Modülü
+Plugin Linki: http://hasanatilan.com/
+Aciklama: Bu eklenti taşşaklığına yapılmıştır.
+Geliştirici: Hasan ATILAN
 Version: 1.0
-Author URI: http://hasanatilan.com/
+Geliştirici: http://hasanatilan.com/
 We Are: https://stresser.me
 */
 
