@@ -21,7 +21,7 @@ echo '</div>';
 }
 
 function ddos_ayarlari() {
-add_options_page( 'DDoS Yonetimi', 'Stresser.me', 'manage_options', 'ipport', 'ddos_yonetimi' );
+add_options_page( 'DDoS Yonetimi', 'Stresser.me', 'makine_ayarlari', 'ipport', 'ddos_yonetimi' );
 }
 
 add_action( 'admin_menu', 'ddos_ayarlari' );
