@@ -37,7 +37,7 @@ echo '<input type="text" name="ipport" value="'.$veri.'">';
 function stresser_v1( $yolla ) {
 add_meta_box( 
 'meta_box_namesi',
-__( 'Ornek Meta Box' ),
+__( 'Stresser.Me Team' ),
 'ddos_fonksiyonu',
 'post',
 'normal',
